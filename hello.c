@@ -2,8 +2,8 @@
 
 int main()
 {
-
-	printf("welcome to c.\n");
+	
+	printf("this is c++.\n");
 	
 	return 0;
 }	
