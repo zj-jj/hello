@@ -1,13 +1,9 @@
 #include <stdio.h>
 
-
-
 int main()
 {
-	int a = 3;
 
-	printf("hello mornning.\n");
-
+	printf("welcome to c.\n");
 	
 	return 0;
 }	
